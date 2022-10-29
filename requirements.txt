@@ -1,5 +1,7 @@
 requests~=2.20
-Twisted~=20.3.0
+Twisted~=22.10.0rc1
 pycoingecko~=1.4.0
 python-decouple~=3.4
 python-binance~=0.7
+autobahn>=20.12.3 # not directly required, pinned by Snyk to avoid a vulnerability
+ujson>=5.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
