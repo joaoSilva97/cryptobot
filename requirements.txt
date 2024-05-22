@@ -1,4 +1,4 @@
-requests~=2.20
+requests~=2.32.0
 Twisted~=20.3.0
 pycoingecko~=1.4.0
 python-decouple~=3.4
