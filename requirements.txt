@@ -3,3 +3,4 @@ Twisted~=20.3.0
 pycoingecko~=1.4.0
 python-decouple~=3.4
 python-binance~=0.7
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
